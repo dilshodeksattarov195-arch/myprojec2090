@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervtringify",
+        "uuid": 19900980,
+        "checksum": "8rfaxi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
